@@ -1,4 +1,4 @@
-# BorodinIgor
+# Igor Borodin
 Here are my certificates and artifacts
 ![Зачет_сертификат](https://user-images.githubusercontent.com/115728975/204132987-0001192c-af44-4dff-9104-2267982a3f4a.jpg)
 <p> Contact me: </p>
