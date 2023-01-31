@@ -11,3 +11,4 @@ Here are my certificates
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 <a href="mailto:flyingruh@gmail.com" >
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+![CertificateOfCompletion_Software Testing Foundations Test Techniques_page-0001](https://user-images.githubusercontent.com/115728975/215801302-183e42cc-045d-4ba6-9612-da38d9f7ff37.jpg)
