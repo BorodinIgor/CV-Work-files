@@ -7,6 +7,8 @@ Here are my certificates
 ![CertificateOfCompletion_Understanding Manual Testing_page-0001](https://user-images.githubusercontent.com/115728975/207191980-2f359815-f48f-4960-9dea-cdb913f8dcdd.jpg)
 ![CertificateOfCompletion_Software Testing Foundations Test Management_page-0001](https://user-images.githubusercontent.com/115728975/207443728-2476cfd2-c90c-44c7-9100-62a4210167f3.jpg)
 ![CertificateOfCompletion_Software Testing Foundations Test Techniques_page-0001](https://user-images.githubusercontent.com/115728975/215801302-183e42cc-045d-4ba6-9612-da38d9f7ff37.jpg)
+![CertificateOfCompletion_Software Testing Foundations Test Planning_page-0001](https://user-images.githubusercontent.com/115728975/215855683-44350d4a-78e9-49d6-aef2-b72106684c73.jpg)
+
 <p> Contact me: </p>
 <p> <a href="https://www.linkedin.com/in/itigorborodin/" >
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
